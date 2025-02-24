@@ -65,10 +65,11 @@ Com base no backlog da aplicação **coLAB**, você deverá desenvolver testes a
 
 # Como entregar
 1. Faça um **fork** do repositório `venhaparaoleds-qa`. Nesse fork esperamos encontrar uma documentação completa indicando os testes automatizados e o relatório de bugs.
+2. Abra um **pull request (PR)** do seu fork para o nome repositório com o seu nome como título. Assim conseguimos te localizar melhor e ver que você já finalizou o desafio!
 
 🚨 **Atenção**: você deve enviar apenas o código fonte. Não serão aceitos códigos compilados.
 
->  *Observação: Para utilizar a aplicação coLAB, também faça **forks** dos repositórios.*
+>  *Observação: Para utilizar a aplicação coLAB, também faça **forks** dos repositórios. Não abra PRs para eles.*
 
 ## Avaliação
 
