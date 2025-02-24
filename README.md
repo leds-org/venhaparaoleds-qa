@@ -90,10 +90,13 @@ Você pode **aumentar sua pontuação** implementando os seguintes diferenciais:
 
 | Critério                                                                                     | Valor  |
 |----------------------------------------------------------------------------------------------|--------|
+| Testes Unitários no Backend                                                                  | 20     |
 | Criar um pipeline completo com execução de testes e análise de qualidade (SonarQube + CI/CD) | 20     |
-| Implementar análise de qualidade de Código com SonarQube                                     | 15     |
-| Implementar pipeline de CI/CD no GitHub                                                      | 15     |
-| Dockerização da solução                                                                      | 15     |
+| Implementar análise de qualidade de Código com SonarQube                                     | 10     |
+| Implementar pipeline de CI/CD no GitHub                                                      | 10     |
+| Dockerização da solução                                                                      | 10     |
+| Gestão das tarefas com GitHub Projects                                                       | 5      |
+| Análise de melhorias de código na aplicação coLAB                                            | 5      |
 | **Total**                                                                                    | **80** |
 
 
