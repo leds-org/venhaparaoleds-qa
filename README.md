@@ -33,7 +33,7 @@ Com base no backlog da aplicação **coLAB**, você deverá desenvolver testes a
 | 14 | Editar Financiador    |
 | 15 | Deletar Financiador   |
 
-# O que deve ser entregue?
+# O que deve ser entregue ?
 
 1. **Automação de Testes (obrigatoriamente utilizando Cypress)**: Desenvolva testes automatizados cobrindo as funcionalidades listadas acima. 
 
