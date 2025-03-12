@@ -1,4 +1,4 @@
-# Desafio QA -LEDS
+# Desafio QA - LEDS
 *Bem-vindo!* 👋
 
 Neste desafio, você terá a oportunidade de demonstrar que possui as habilidades necessárias para atuar no time de QA do laboratório.
